@@ -1,0 +1,3 @@
+[submodule "scikits/learn/recommender"]
+	path = scikits/learn/recommender
+	url = git@github.com:muricoca/crab.git
